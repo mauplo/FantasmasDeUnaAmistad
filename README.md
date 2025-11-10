@@ -1,7 +1,6 @@
 # Fantasmas de una Amistad
 ## Proyecto_1 para Gráficas por computadora
-Animación 2D en OpenGL 3.3 Core
-Por: Mauricia Peña y Javier Escalante)
+Por: Mauricia Peña y Javier Escalante
 
 ### Descripción
 Animación narrativa 2D que cuenta la historia de dos guerreros cuya amistad 
